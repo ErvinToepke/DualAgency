@@ -1,0 +1,38 @@
+main {
+    color:rgb(235, 230, 230);;
+    display: flex; 
+    flex-wrap: wrap;
+}
+
+h2 {
+    font-size: 1rem;
+    color: rgba(238,118,172,255);
+}
+
+p {
+    font-size: 0.3rem;
+    color: rgba(18,1,81,255);
+}
+
+.tarjeta {
+    margin: 50px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+}
+
+.texto1 {
+    
+    padding: 50px;
+    
+}
+
+.texto2 {
+    background: rgba(18,1,81,255);
+    border-bottom: 5px solid rgba(238,118,172,255);
+    padding: 50px;
+    margin: 20px;
+}

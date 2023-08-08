@@ -1,0 +1,44 @@
+main {
+    color: rgba(18,1,81,255);
+    display: flex; 
+    flex-wrap: wrap;
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+}
+
+h2 {
+    font-size: 1rem;
+}
+
+.parte2 {
+    padding-bottom: 50px;
+    color: rgba(238,118,172,255);
+}
+
+
+p {
+    font-size: 0.3rem;
+    
+}
+
+.parrafo {
+    font-size: 0.4rem;
+    padding-bottom: 20px; 
+    color: rgba(238,118,172,255);
+}
+
+.d1{
+    margin: 70px
+}
+
+.video {
+    border: 0px;
+    padding: 80px;
+    width: 1280px;
+    height: 720px;
+}
+
